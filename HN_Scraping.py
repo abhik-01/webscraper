@@ -46,4 +46,4 @@ class Scrape:
 
 
 output = Scrape()
-output.import_links()
+output.import_links()  # Give the number of pages as argument
