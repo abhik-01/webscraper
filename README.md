@@ -1,6 +1,6 @@
 <h1 align='center'>Web Scraper</h1>
 
-This is a `web sraper` built with `Python` & `Beautiful Soup`. It scrapes the articles from
+This is a `web scraper` built with `Python` & `Beautiful Soup`. It scrapes the articles from
 [Hacker News](https://news.ycombinator.com/news?) & only returns the articles having 100 or more points.
 
 It takes the number of pages you want to scrape as input & uses the `requests.get()` method to get the requested pages.
